@@ -10,6 +10,7 @@ Here are my projects;
 - Powershell Permission Script
 - Python Scripts
 - Morphine Video Game
+- Bots/Macros
 - TroyKO Online MMORPG Server
 
 ```
