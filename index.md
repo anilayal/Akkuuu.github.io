@@ -17,7 +17,7 @@ Here are my works;
 
 You can find my PowerShell Scripts here;
 
-[Link](https://github.com/Akkuuu/Powershell-Scripts)
+[Link to my Github Rep ->](https://github.com/Akkuuu/Powershell-Scripts)
 
 ### Support or Contact
 
