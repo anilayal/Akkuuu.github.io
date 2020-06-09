@@ -7,15 +7,14 @@ On this site you can find my projects/work.
 ```markdown
 Here are my works;
 
-- Powershell Permission Script
-- Python Scripts
-- Morphine Video Game
-- Bots/Macros
-- TroyKO Online MMORPG Server
+- Powershell/Python Scripts
+- Morphine Video Game (https://store.steampowered.com/app/410430/Morphine)
+- Bots/Macros (Releasing soon)
+- TroyKO Online MMORPG Server (Discontinued)
 
 ```
 
-You can find my PowerShell Scripts here;
+You can find my PowerShell/Python Scripts here;
 
 [Link to my Github Rep ->](https://github.com/Akkuuu/Powershell-Scripts)
 
