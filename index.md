@@ -15,6 +15,9 @@ Here are my projects;
 
 ```
 
+You can find my PowerShell Scripts here;
+[Link](https://github.com/Akkuuu/Powershell-Scripts)
+
 ### Support or Contact
 
 You can contact me at anilayal@outlook.com
