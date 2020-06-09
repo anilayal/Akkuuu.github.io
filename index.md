@@ -5,7 +5,7 @@ On this site you can find my projects/work.
 ### Projects
 
 ```markdown
-Here are my projects;
+Here are my works;
 
 - Powershell Permission Script
 - Python Scripts
@@ -16,7 +16,8 @@ Here are my projects;
 ```
 
 You can find my PowerShell Scripts here;
-[Link](https://github.com/Akkuuu/Powershell-Scripts)
+[https://github.com/Akkuuu/Powershell-Scripts]
+(https://github.com/Akkuuu/Powershell-Scripts)
 
 ### Support or Contact
 
