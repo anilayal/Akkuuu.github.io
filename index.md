@@ -5,7 +5,6 @@ On this site you can find my projects/work.
 ### Projects
 
 ```markdown
-Here are my works;
 
 - Powershell/Python Scripts
 - Morphine Video Game
