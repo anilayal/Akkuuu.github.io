@@ -26,4 +26,12 @@ Morphine Video Game <a href = "https://store.steampowered.com/app/410430/Morphin
 
 You can contact me at <a href = "mailto: anilayal@outlook.com">anilayal@outlook.com</a>
 
+Or you can use the form below:
+
+<form action="https://formspree.io/xzbjgplp" method="POST">
+  <input type="text" name="name">
+  <input type="email" name="_replyto">
+  <input type="submit" value="Send">
+</form>
+
 
