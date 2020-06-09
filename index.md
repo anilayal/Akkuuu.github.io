@@ -8,7 +8,7 @@ On this site you can find my projects/work.
 Here are my works;
 
 - Powershell/Python Scripts
-- Morphine Video Game [store.steampowered.com/app/410430/Morphine]
+- Morphine Video Game <a href = "store.steampowered.com/app/410430/Morphine">Steam Page</a>
 - Bots/Macros (Releasing soon)
 - TroyKO Online MMORPG Server (Discontinued)
 
@@ -21,6 +21,6 @@ You can find my PowerShell/Python Scripts here;
 
 ### Support or Contact
 
-You can contact me at [anilayal@outlook.com](anilayal@outlook.com)
+You can contact me at <a href = "mailto: anilayal@outlook.com">anilayal@outlook.com</a>
 
-<a href = "mailto: anilayal@outlook.com">Send Email</a>
+
