@@ -28,10 +28,22 @@ You can contact me at <a href = "mailto: anilayal@outlook.com">anilayal@outlook.
 
 Or you can use the form below:
 
-<form action="https://formspree.io/xzbjgplp" method="POST">
-  <input type="text" name="name">
-  <input type="email" name="_replyto">
-  <input type="submit" value="Send">
+<form
+  action="https://formspree.io/xzbjgplp"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
 </form>
 
 
