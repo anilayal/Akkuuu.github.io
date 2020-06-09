@@ -14,13 +14,13 @@ Here are my works;
 
 ```
 <a href="url">link text</a>
-You can find my PowerShell/Python Scripts here;
+### You can find my PowerShell/Python Scripts here;
 
 [Link to my Github Rep ->](https://github.com/Akkuuu/Powershell-Scripts)
 
-Morphine Video Game Project
+### Morphine Video Game Project
 
-- Morphine Video Game <a href = "store.steampowered.com/app/410430/Morphine">Steam Page</a>
+Morphine Video Game <a href = "https://store.steampowered.com/app/410430/Morphine">Steam Page</a>
 
 ### Support or Contact
 
