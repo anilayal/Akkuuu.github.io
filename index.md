@@ -37,7 +37,7 @@ Or you can use the form below:
     <input type="text" name="_replyto">
   </label>
   <label>
-    Your message:
+    <br>Your message:
     <textarea name="message"></textarea>
   </label>
 
