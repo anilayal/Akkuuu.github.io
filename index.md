@@ -1,6 +1,6 @@
 ## Welcome to my page.
 
-On this site you can find my projects/work.
+On this site you can find my projects.
 
 ### Projects
 
