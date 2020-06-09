@@ -31,8 +31,8 @@ Or you can use the form below:
 
 <form action="https://formspree.io/xzbjgplp">
   <label for="fname">Your email:</label><br>
-  <input type="text" id="fname" name="fname" value="John"><br>
+  <input type="text" id="fname" name="fname" value=""><br>
   <label for="lname">Your message:</label><br>
-  <textarea name="message"></textarea>
+  <textarea name="message"></textarea><br>
   <input type="submit" value="Submit">
 </form> 
