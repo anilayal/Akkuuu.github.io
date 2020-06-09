@@ -13,7 +13,7 @@ Here are my works;
 - TroyKO Online MMORPG Server (Discontinued)
 
 ```
-<a href="url">link text</a>
+
 ### You can find my PowerShell/Python Scripts here;
 
 [Link to my Github Rep ->](https://github.com/Akkuuu/Powershell-Scripts)
