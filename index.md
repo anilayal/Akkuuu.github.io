@@ -29,7 +29,7 @@ You can contact me at <a href = "mailto: anilayal@outlook.com">anilayal@outlook.
 Or you can use the form below:
 
 
-<form action="https://formspree.io/xzbjgplp">
+<form action="https://formspree.io/xzbjgplp" method="POST">
   <label for="fname">Your email:</label><br>
   <input type="text" id="fname" name="fname" value=""><br>
   <label for="lname">Your message:</label><br>
